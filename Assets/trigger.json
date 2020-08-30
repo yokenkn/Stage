@@ -1,0 +1,72 @@
+{
+  "triggers": [
+    {
+      "displayName": "ABDC On",
+      "category": "",
+      "showConfirmDialog": false,
+      "color": [
+        0.99609375,
+        0.41015625,
+        0
+      ],
+      "state": [
+        {
+          "key": "ABCDActive",
+          "type": "bool",
+          "value": true
+        }
+      ]
+    },
+    {
+      "displayName": "ABCD Off",
+      "category": "",
+      "showConfirmDialog": false,
+      "color": [
+        0.99609375,
+        0.41015625,
+        0
+      ],
+      "state": [
+        {
+          "key": "ABCDActive",
+          "type": "bool",
+          "value": false
+        }
+      ]
+    },
+    {
+      "displayName": "Seat close",
+      "category": "",
+      "showConfirmDialog": false,
+      "color": [
+        0.0234375,
+        0.57421875,
+        0.88671875
+      ],
+      "state": [
+        {
+          "key": "seat",
+          "type": "bool",
+          "value": false
+        }
+      ]
+    },
+    {
+      "displayName": "Seat open",
+      "category": "",
+      "showConfirmDialog": false,
+      "color": [
+        0.0234375,
+        0.57421875,
+        0.88671875
+      ],
+      "state": [
+        {
+          "key": "seat",
+          "type": "bool",
+          "value": true
+        }
+      ]
+    }
+  ]
+}
