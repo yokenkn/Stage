@@ -3,7 +3,62 @@ guid: bf1fb3677289c3748b3b73581cc268af
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_Material
+    second: {fileID: 2100000, guid: 672e7d0e149243e429004566c08322ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 78a06ac1460cc1e4d95c9d0fc8339925, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__SpeakerMesh1
+    second: {fileID: 2100000, guid: 772df4394f1f0e741a207f5e8962c621, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__SpeakerShell1
+    second: {fileID: 2100000, guid: c8ffd202c73070f4cb0c10c6177f1db8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__buratiribu1
+    second: {fileID: 2100000, guid: 07ad3ee71a4d8174cba1842aa5eb85a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__grass1
+    second: {fileID: 2100000, guid: 343831b79e8381146baee4d7c401fddf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__kyakuseki1
+    second: {fileID: 2100000, guid: 23e4976103fcde941841870a66a2ab26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__lambert10
+    second: {fileID: 2100000, guid: 6ffc6c1e39133a7449e080299bb240bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__lambert11
+    second: {fileID: 2100000, guid: 0d77eb38d7c22954fabeb46bc215b3e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pole2
+    second: {fileID: 2100000, guid: 53096ad9c65112d4b9628bc6eed7f2b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__speaker2
+    second: {fileID: 2100000, guid: d1ad491a3a4f341429d217794652bde9, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
